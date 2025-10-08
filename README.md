@@ -21,56 +21,10 @@ This report aims to:
 * Analyze **monthly UPI transaction amounts and balances** for the year 2024.
 * Identify **high-performing periods and patterns** in digital payments.
 * Evaluate **trends across banks, cities, and user demographics** to support data-driven decision-making.
-
+  
 ---
 
-## **1. Column Chart – Balance by Month (2024)**
-
-![Balance Column Chart](images/Column%20Chart%20Balance.png)
-
-### **Overall Analysis**
-
-* Displays **monthly balance trends** for 2024, with average balances ranging between **8.2M and 8.5M**.
-* Balances are consistent across the year, showing **stable user engagement and cash flow**.
-
-### **Key Insights**
-
-* **June** recorded the highest balance (8.5M), indicating a strong transactional period mid-year.
-* **January and May** observed slightly lower balances (8.2M), possibly due to seasonal spending adjustments.
-* Minimal fluctuations throughout the year reflect **steady UPI activity and stable liquidity**.
-
-### **Recommendations**
-
-* Maintain existing **transaction infrastructure** since balances remain stable.
-* Conduct **user engagement promotions** in low-activity months (January, May) to balance performance.
-* Continue **transaction tracking** to detect anomalies or declining usage early.
-
----
-
-## **2. Column Chart – Transactions by Month (2024)**
-
-![Column Chart Amounts](images/Coulmn%20Charts%20Amounts.png)
-
-### **Overall Analysis**
-
-* Represents **monthly transaction counts** throughout 2024, ranging between **1.6M – 1.7M**.
-* Indicates **consistent transaction volume** with moderate fluctuations across the months.
-
-### **Key Insights**
-
-* **May (1.71M)** achieved the highest transaction volume.
-* **August (1.60M)** recorded the lowest volume, hinting at reduced user activity or seasonal slowdowns.
-* Transaction frequency remains above **1.6M per month**, showing **stable UPI adoption** across users.
-
-### **Recommendations**
-
-* Analyze **transaction categories** (merchant vs. peer-to-peer) for low-performing months.
-* Introduce **cashback or referral incentives** during weaker months to maintain volume.
-* Track **device type and city performance** to identify potential adoption barriers.
-
----
-
-## **3. Line Chart – Transactions by Month (2024)**
+## **1. Line Chart – Transactions by Month (2024)**
 
 ![Line Chart Amounts](images/Line%20Chart%20Amounts.png)
 
@@ -93,7 +47,7 @@ This report aims to:
 
 ---
 
-## **4. Line Chart – Balance by Month (2024)**
+## **2. Line Chart – Balance by Month (2024)**
 
 ![Line Chart Balance](images/Line%20Chart%20Balance.png)
 
@@ -115,6 +69,53 @@ This report aims to:
 * Track **city-level balance behavior** to identify localized economic activity.
 
 ---
+
+## **3. Column Chart – Transactions by Month (2024)**
+
+![Column Chart Amounts](images/Coulmn%20Charts%20Amounts.png)
+
+### **Overall Analysis**
+
+* Represents **monthly transaction counts** throughout 2024, ranging between **1.6M – 1.7M**.
+* Indicates **consistent transaction volume** with moderate fluctuations across the months.
+
+### **Key Insights**
+
+* **May (1.71M)** achieved the highest transaction volume.
+* **August (1.60M)** recorded the lowest volume, hinting at reduced user activity or seasonal slowdowns.
+* Transaction frequency remains above **1.6M per month**, showing **stable UPI adoption** across users.
+
+### **Recommendations**
+
+* Analyze **transaction categories** (merchant vs. peer-to-peer) for low-performing months.
+* Introduce **cashback or referral incentives** during weaker months to maintain volume.
+* Track **device type and city performance** to identify potential adoption barriers.
+
+---
+
+## **4. Column Chart – Balance by Month (2024)**
+
+![Balance Column Chart](images/Column%20Chart%20Balance.png)
+
+### **Overall Analysis**
+
+* Displays **monthly balance trends** for 2024, with average balances ranging between **8.2M and 8.5M**.
+* Balances are consistent across the year, showing **stable user engagement and cash flow**.
+
+### **Key Insights**
+
+* **June** recorded the highest balance (8.5M), indicating a strong transactional period mid-year.
+* **January and May** observed slightly lower balances (8.2M), possibly due to seasonal spending adjustments.
+* Minimal fluctuations throughout the year reflect **steady UPI activity and stable liquidity**.
+
+### **Recommendations**
+
+* Maintain existing **transaction infrastructure** since balances remain stable.
+* Conduct **user engagement promotions** in low-activity months (January, May) to balance performance.
+* Continue **transaction tracking** to detect anomalies or declining usage early.
+  
+---
+
 ## **5. Transaction Details by City and Currency**
 
 ![Transaction Details](images/Details.png)
