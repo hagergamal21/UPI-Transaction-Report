@@ -70,30 +70,7 @@ This report aims to:
 
 ---
 
-## **3. Transaction Details by City and Currency**
-
-![Transaction Details](images/Details.png)
-
-### **Overall Analysis**
-
-* Provides **granular details** of transaction amounts and remaining balances across cities (Bangalore, Delhi, Hyderabad, Mumbai) and currencies (EUR, USD, GBP, INR).
-* Highlights **multi-currency activity**, which is critical for understanding cross-border or corporate payments.
-
-### **Key Insights**
-
-* **Bangalore (EUR)** and **Mumbai (INR)** show strong transaction consistency across months.
-* **Delhi (USD)** exhibits higher variation, with large spikes in **February and October**, possibly tied to international transactions.
-* **Hyderabad (GBP)** maintains moderate but steady contributions.
-
-### **Recommendations**
-
-* Strengthen **currency exchange and remittance partnerships** for Delhi and Hyderabad.
-* Monitor **INR flows in Mumbai**, as it represents core domestic activity.
-* Evaluate **cross-currency transaction fees and processing times** to enhance performance.
-
----
-
-## **4. Line Chart – Transactions by Month (2024)**
+## **3. Line Chart – Transactions by Month (2024)**
 
 ![Line Chart Amounts](images/Line%20Chart%20Amounts.png)
 
@@ -116,7 +93,7 @@ This report aims to:
 
 ---
 
-## **5. Line Chart – Balance by Month (2024)**
+## **4. Line Chart – Balance by Month (2024)**
 
 ![Line Chart Balance](images/Line%20Chart%20Balance.png)
 
@@ -136,6 +113,28 @@ This report aims to:
 * Strengthen **data-driven forecasting models** to anticipate balance surges.
 * Maintain **infrastructure scalability** during high-transaction months (April–June).
 * Track **city-level balance behavior** to identify localized economic activity.
+
+---
+## **5. Transaction Details by City and Currency**
+
+![Transaction Details](images/Details.png)
+
+### **Overall Analysis**
+
+* Provides **granular details** of transaction amounts and remaining balances across cities (Bangalore, Delhi, Hyderabad, Mumbai) and currencies (EUR, USD, GBP, INR).
+* Highlights **multi-currency activity**, which is critical for understanding cross-border or corporate payments.
+
+### **Key Insights**
+
+* **Bangalore (EUR)** and **Mumbai (INR)** show strong transaction consistency across months.
+* **Delhi (USD)** exhibits higher variation, with large spikes in **February and October**, possibly tied to international transactions.
+* **Hyderabad (GBP)** maintains moderate but steady contributions.
+
+### **Recommendations**
+
+* Strengthen **currency exchange and remittance partnerships** for Delhi and Hyderabad.
+* Monitor **INR flows in Mumbai**, as it represents core domestic activity.
+* Evaluate **cross-currency transaction fees and processing times** to enhance performance.
 
 ---
 
